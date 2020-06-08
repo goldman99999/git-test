@@ -19,13 +19,11 @@ public class FirstClass {
         int i = 0;
         i += 10;
 
-        /**
-         * sout test3 last version
-         *
-         */
+        // * sout test3 last version
         System.out.println(i);
-        return;
     }
+
+
 
 
 }
